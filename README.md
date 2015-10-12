@@ -7,3 +7,6 @@ multi-thread
 
 - Task
     - java.util.concurrent.*
+
+- Collection
+    - Thread safe cache
